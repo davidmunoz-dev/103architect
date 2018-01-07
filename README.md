@@ -38,8 +38,7 @@ These instructions will allow you to obtain a copy of the operational project on
 What do you need to install the software and how to install it?
 
 ```
-gcc
-make
+python
 ```
 
 ### Installation
@@ -47,12 +46,6 @@ make
 Here's how to start the project on your computer
 
 Clone and go in the directory 103architect
-
-Project compilation
-
-```
-make
-```
 
 Running project
 
