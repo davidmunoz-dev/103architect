@@ -1,14 +1,14 @@
 # 103architect
 Epitech first year project : [CPE] 103architect
-Second mathematic mudole project of the first year
+3rd mathematic mudole project of the first year
 
 Deadline : 2 weeks
 
-Beginning of the project : 16/11/2015, 07h42
+Beginning of the project : 30/11/2015, 07h42
 
 Group size : 2 person
 
-Contributor : collet_j
+Contributor : monge_p
 
 # 103architect
 
