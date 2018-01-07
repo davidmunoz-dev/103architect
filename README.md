@@ -1,6 +1,7 @@
 # 103architect
 Epitech first year project : [CPE] 103architect
-3rd mathematic mudole project of the first year
+
+3rd mathematic module project of the first year
 
 Deadline : 2 weeks
 
